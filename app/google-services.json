@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465317207942",
+    "firebase_url": "https://carporationsystem.firebaseio.com",
+    "project_id": "carporationsystem",
+    "storage_bucket": "carporationsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465317207942:android:9ed56cb6a813a6bc2a1607",
+        "android_client_info": {
+          "package_name": "in.inspert.carporationsystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465317207942-7s02ihdjf84n5rff35495tj5l4lkjpn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTk_YGHzPfEe37kfOz6A1I3EZcf0Tne0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465317207942-7s02ihdjf84n5rff35495tj5l4lkjpn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
